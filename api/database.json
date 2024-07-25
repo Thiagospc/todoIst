@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Arrumar cama",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Trabalho",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "Estudo",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "Vue.js",
+      "completed": false
+    }
+  ]
+}
